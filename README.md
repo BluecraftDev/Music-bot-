@@ -48,11 +48,9 @@
 <br/>
 <br/>
 
-# SUPPORT ME AND MILRATO DEVELOPMENT
-
-You can always Support me by inviting one of my **own Discord Bots**
-
 
 files that you need to download 
-[DJPlayer.zip](https://github.com/bluecodeforever/Music-bot-/files/7196760/DJPlayer.zip)
+
+[DJPlayer.zip]
+(https://github.com/bluecodeforever/Music-bot-/files/7196760/DJPlayer.zip)
 
