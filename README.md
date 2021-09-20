@@ -49,8 +49,5 @@
 <br/>
 
 
-files that you need to download 
-
-[DJPlayer.zip]
-(https://github.com/bluecodeforever/Music-bot-/files/7196760/DJPlayer.zip)
+files that you need to download[DJPlayer.zip](https://github.com/bluecodeforever/Music-bot-/files/7196760/DJPlayer.zip)
 
