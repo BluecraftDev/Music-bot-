@@ -1,12 +1,3 @@
-# Musicium
-
-
-***
-
-
-
-### [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
-
 ***
 
 ## Installation Guide (Hosting)
